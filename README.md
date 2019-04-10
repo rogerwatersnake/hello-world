@@ -1,2 +1,3 @@
 # hello-world
-A new repository
+
+This is the first change that is being made in the project.
